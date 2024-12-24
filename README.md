@@ -9,11 +9,14 @@ The Product Quality Analysis Project focuses on ensuring high-quality products a
 
 **Phases of Focus**
 **1. Pre-Production: Identifying Consumer Needs**
-  •	**Objective:** Understanding customer expectations and embed them into product design specifications.
+
+  •	**Objective:** Understanding customer expectations and embed them into product design 
+  specifications.
+  
   •	**Analysis:**
-    o	Conducting surveys, market research, and focus groups to gather consumer needs.
-    o	Translate consumer feedback into actionable product design specifications, ensuring that design aligns with market demands.
-    o	Anticipate potential issues based on historical data and competitor analysis to set realistic quality benchmarks.
+    - Conducting surveys, market research, and focus groups to gather consumer needs.
+    -	Translate consumer feedback into actionable product design specifications, ensuring that design aligns with market demands.
+    -	Anticipate potential issues based on historical data and competitor analysis to set realistic quality benchmarks.
 
 **2. During Production: Quality Control Across Processes**
   •	**Objective:** Implement quality assurance at every production stage to meet established quality standards.
