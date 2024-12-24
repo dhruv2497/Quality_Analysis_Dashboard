@@ -15,7 +15,9 @@ The Product Quality Analysis Project focuses on ensuring high-quality products a
   
   •	**Analysis:**
     - Conducting surveys, market research, and focus groups to gather consumer needs.
+    
     -	Translate consumer feedback into actionable product design specifications, ensuring that design aligns with market demands.
+    
     -	Anticipate potential issues based on historical data and competitor analysis to set realistic quality benchmarks.
 
 **2. During Production: Quality Control Across Processes**
